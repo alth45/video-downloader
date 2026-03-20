@@ -39,7 +39,6 @@ def download_playlist(url, mode, output_folder):
 
 
 def main():
-    def main():
     print("=== Downloader ===")
     print("Platform: YouTube, Instagram, TikTok\n")
 
